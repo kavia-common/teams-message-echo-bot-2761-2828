@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/teams-message-echo-bot-2761-2828/teams_echo_bot_frontend"
+}
